@@ -1,0 +1,8 @@
+{
+	"proxyOld": "0x3eE0A336E8CeFc8A9CE7f008d864bDF2C22609AB",
+	"adminOld": "0x6e10Ef2EE59d754E0ed807379edbd6C0c504b802",
+	"zeroToHeroLogicOld": "0x0eBE986218a9dCA7E665fc58c61eC8ce519D3B0c",
+	"proxyNew": "0x3eE0A336E8CeFc8A9CE7f008d864bDF2C22609AB",
+	"adminNew": "0x6e10Ef2EE59d754E0ed807379edbd6C0c504b802",
+	"zeroToHeroLogicNew": "0xc85dd177cfdca1aca21aa5bf2dac5a32789b93fd"
+}
