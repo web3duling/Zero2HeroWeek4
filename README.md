@@ -13,3 +13,5 @@ npx hardhat ZeroToHeroLogicOld --network bnbtest
 3.升级合约
 npx hardhat run scripts/upgrade.ts --network bnbtest
 
+4.升级后验证
+npx hardhat ZeroToHeroLogicNew --network bnbtest
